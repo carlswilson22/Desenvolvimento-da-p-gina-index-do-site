@@ -1,1 +1,1 @@
-<h1>Codigo para um site de compra de jogos</h1>
+<h1>Codigos para um site de compra de jogos</h1>
